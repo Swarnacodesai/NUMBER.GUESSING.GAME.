@@ -1,0 +1,14 @@
+# Number Guessing Game
+
+A Python number guessing game with:
+- Hints based on distance from the target
+- Countdown before the game starts
+- High score tracking
+- Celebration with emojis when you win
+
+## How to Run
+1. Download `NumberGuessingGame.py`
+2. Run it using Python 
+
+
+
